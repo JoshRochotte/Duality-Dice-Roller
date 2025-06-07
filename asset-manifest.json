@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/duality-dice-roller/static/css/main.d311b6c5.css",
-    "main.js": "/duality-dice-roller/static/js/main.45aa6296.js",
+    "main.css": "/duality-dice-roller/static/css/main.1dfd6839.css",
+    "main.js": "/duality-dice-roller/static/js/main.bf3acad1.js",
     "static/js/453.5efe8f4c.chunk.js": "/duality-dice-roller/static/js/453.5efe8f4c.chunk.js",
     "index.html": "/duality-dice-roller/index.html",
-    "main.d311b6c5.css.map": "/duality-dice-roller/static/css/main.d311b6c5.css.map",
-    "main.45aa6296.js.map": "/duality-dice-roller/static/js/main.45aa6296.js.map",
+    "main.1dfd6839.css.map": "/duality-dice-roller/static/css/main.1dfd6839.css.map",
+    "main.bf3acad1.js.map": "/duality-dice-roller/static/js/main.bf3acad1.js.map",
     "453.5efe8f4c.chunk.js.map": "/duality-dice-roller/static/js/453.5efe8f4c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d311b6c5.css",
-    "static/js/main.45aa6296.js"
+    "static/css/main.1dfd6839.css",
+    "static/js/main.bf3acad1.js"
   ]
 }
