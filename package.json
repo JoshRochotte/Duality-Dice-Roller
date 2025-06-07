@@ -2,7 +2,7 @@
   "name": "duality-dice-roller",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://joshrochotte.github.io/duality-dice-roller>",
+  "homepage": "http://joshrochotte.github.io/Duality-Dice-Roller>",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
