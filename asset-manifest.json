@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/duality-dice-roller/static/css/main.028f3b7f.css",
-    "main.js": "/duality-dice-roller/static/js/main.e18c8a62.js",
+    "main.js": "/duality-dice-roller/static/js/main.942d52a8.js",
     "static/js/453.5efe8f4c.chunk.js": "/duality-dice-roller/static/js/453.5efe8f4c.chunk.js",
     "static/media/daggerheart-logo.png": "/duality-dice-roller/static/media/daggerheart-logo.51878228cdd8ff01da52.png",
     "index.html": "/duality-dice-roller/index.html",
     "main.028f3b7f.css.map": "/duality-dice-roller/static/css/main.028f3b7f.css.map",
-    "main.e18c8a62.js.map": "/duality-dice-roller/static/js/main.e18c8a62.js.map",
+    "main.942d52a8.js.map": "/duality-dice-roller/static/js/main.942d52a8.js.map",
     "453.5efe8f4c.chunk.js.map": "/duality-dice-roller/static/js/453.5efe8f4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.028f3b7f.css",
-    "static/js/main.e18c8a62.js"
+    "static/js/main.942d52a8.js"
   ]
 }
